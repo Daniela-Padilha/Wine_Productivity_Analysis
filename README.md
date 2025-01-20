@@ -37,6 +37,6 @@ The dataset was uploaded to Power BI, and subjected to several data transformati
 
 
 ## How to Use
-1. Git clone `git@github.com:Daniela-Padilha/Productivity_Analysis.git`
+1. Git clone `git@github.com:Daniela-Padilha/Wine_Productivity_Analysis.git`
 2. Open the `.pbix` file with Power BI Desktop.
 3. Refresh the data source if necessary.
