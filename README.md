@@ -5,7 +5,7 @@
 This Power BI project aims to analyze wine productivity data to identify trends, top-producers, and productivity metrics to aid in business decision-making.
 
 ## Description
-This Productivity Data Analysis project involves delving into a comprehensive productivity dataset to derive actionable insights. It encompasses exploring production trends over time, pinpointing the most productive month and producer, and determine if there is any relationship between climate and production. The project showcases the ability to manipulate datasets and make data-driven production improvmennt recommendations.
+This Productivity Data Analysis project involves delving into a comprehensive productivity dataset to derive actionable insights. It encompasses exploring production trends over time, pinpointing the most productive month and producer, and determine if there is any relationship between climate and production. The project showcases the ability to manipulate datasets and make data-driven production improvement recommendations.
 
 ## Dataset
 The dataset includes the following columns:
